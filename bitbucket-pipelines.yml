@@ -1,0 +1,7 @@
+options:
+  docker: true
+pipelines:
+  default:
+    - step:
+        script: # Modify the commands below to build your re
+          - docker build -t pdfapp .
