@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "axios": "^0.17.1",
-    "css-loader": "^0.28.9",
+    "css-loader": "^5.0.0",
     "history": "^4.7.2",
     "less-loader": "^4.0.5",
     "react": "^16.2.0",
